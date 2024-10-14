@@ -4,7 +4,7 @@ $host="localhost";
 //your database name
 $dbname='auth';
 
-//database username root for localhost
+//database username
 $username='root';
 
 //password empty for localhost
